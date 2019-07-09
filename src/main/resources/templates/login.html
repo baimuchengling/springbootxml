@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>xxx管理系统</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" th:href="@{/css/login.css}">
+    <script th:src="@{/js/login.js}"></script>
+</head>
+<body leftmargin="0" onload="changeImg()">
+<div class="main_bar">
+    <div id="login_form">
+        <div class="title">
+            志林系统登录
+        </div>
+        <form action="" method="post" onsubmit="return check()">
+            <div id="form_widget">
+                <br>
+                <input type="text" placeholder="请输入账号" id="username" name="username"class="txt" value="3130803054" onfocus="this.value=''" onblur="if(this.value=='')this.value='用户名'"/>
+                <br>
+                <input type="password" placeholder="请输入密码" id="password"  name="password" class="txt" value="123456" onfocus="this.value=''" onblur="if(this.value=='')this.value='123456'"/>
+                <br>
+                <input type="text" id="vcode" placeholder="验证码" value="验证码" onfocus="this.value=''" onblur="if(this.value=='')this.value='验证码'"/><span id="code" title="看不清，换一张"></span>
+                <div id="search_pass_link">
+                    <a href="forget_pwd.html">忘记密码？</a>
+                </div>
+                <input  type="submit" value="登录" class="btn" onmouseover="this.style.backgroundColor='#FF8D00'" onmouseout="this.style.backgroundColor='#FC5628'">
+                <br>
+                <div id="copyright">
+                    Power By zhilin &copy;CopyRight 2019
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>

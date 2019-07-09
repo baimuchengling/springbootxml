@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>新增页面</title>
+    <link rel="stylesheet" th:href="@{/theme/bootstrap/css/bootstrap.css}" src="../static/theme/bootstrap/css/bootstrap.css">
+    <script th:src="@{/theme/jquery/jquery-3.4.1.js}" src="../static/theme/jquery/jquery-3.4.1.js"></script>
+    <script th:src="@{/theme/bootstrap/js/bootstrap.js}" src="../static/theme/bootstrap/js/bootstrap.js"></script>
+</head>
+<body>
+<form th:action="@{/user/insertUser}">
+    <h2>新增用户</h2>
+    <table >
+        <tr>
+            <td></td><td><input type="text" name="userId" hidden="hidden"></td>
+        </tr>
+        <tr>
+            <td>姓名</td><td><input type="text" name="userName" id="username"></td>
+        </tr>
+        <tr>
+            <td>性别</td><td><input type="radio" name="useSex" value="1">男
+            <input type="radio" name="useSex" value="0">女
+        </td>
+        </tr>
+        <tr>
+            <td>出生日期</td><td><input type="text" name="birthDate"></td>
+        </tr>
+        <tr>
+            <td>籍贯</td><td><input type="text" name="nativePlace"></td>
+        </tr>
+        <tr>
+            <td>电话</td><td><input type="text" name="telephone"></td>
+        </tr>
+        <tr>
+            <td>邮箱</td><td><input type="text" name="email"></td>
+        </tr>
+        <tr><td><button type="submit">提交</button></td>
+            <td><button type="reset">重置</button></td>
+        </tr>
+        <tr><td></td></tr>
+    </table>
+</form>
+</body>
+</html>

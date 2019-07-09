@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springboottest?useUnicode=true&characterEncoding=utf8&serverTimeZone=Arisa/Shanghai
+    username: root
+    password: hzl=19930515
+    type: com.alibaba.druid.pool.DruidDataSource
+  devtools:
+    restart:
+      enabled: true     #开启热部署
+     # additional-paths: src/main/java
+  thymeleaf:
+    cache: false     #页面不加载缓存，修改即时生效
+    encoding: UTF-8
+    prefix: classpath:/templates/
+    mode: HTML5
+    suffix: .html
+  #data:
+   # mongodb:
+    #  uri: mongodb://root:root@localhost:27017/springboottest
+
+mybatis:
+  type-aliases-package: com.hzl.entity
+  mapper-locations: classpath:mappers/*.xml
+logging:
+  config: classpath:log4j2.xml

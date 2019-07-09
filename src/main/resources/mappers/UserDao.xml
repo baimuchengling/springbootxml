@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hzl.dao.UserDao">
+    <insert id="insertUser" parameterType="User">
+        insert into userInfo(userId,userName,userSex,birthDate,nativePlace,telephone,email) values (#{userId},#{userName},#{userSex},#{birthDate},#{nativePlace},#{telephone},#{email});
+    </insert>
+
+    <select id="login"  resultType="int">
+        select count(*) from userInfo where userId=#{userId} and password=#{password}
+    </select>
+
+    <select id="findByUserName" resultType="User" parameterType="String">
+        select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=#{username}
+    </select>
+</mapper>

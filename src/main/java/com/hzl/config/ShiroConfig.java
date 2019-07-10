@@ -37,16 +37,21 @@ public class ShiroConfig {
 
         Map<String,String> filterChainMap=new LinkedHashMap<>();
         // 配置不会被拦截的链接 顺序判断
-        filterChainMap.put("/static/**","anon");
+        filterChainMap.put("/css/**", "anon");
+        filterChainMap.put("/images/**", "anon");
+        filterChainMap.put("/js/**", "anon");
+        filterChainMap.put("/theme/**", "anon");
+        filterChainMap.put("/favicon.ico","anon");
         //配置退出 过滤器,其中的具体的退出代码Shiro已经替我们实现了
         filterChainMap.put("/logout","logout");
         //<!-- 过滤链定义，从上向下顺序执行，一般将/**放在最为下边 -->:这是一个坑呢，一不小心代码就不好使了;
         //<!-- authc:所有url都必须认证通过才可以访问; anon:所有url都都可以匿名访问-->
-        filterChainMap.put("/","authc");
+        filterChainMap.put("/**","authc");
         // 如果不设置默认会自动寻找Web工程根目录下的"/login.jsp"页面
+        //controller要配置请求路径/login
         shiroFilterFactoryBean.setLoginUrl("/login");
         //认证授权成功页面
-        shiroFilterFactoryBean.setSuccessUrl("/main");
+        shiroFilterFactoryBean.setSuccessUrl("/index");
         //未授权界面
         shiroFilterFactoryBean.setUnauthorizedUrl("/403");
         shiroFilterFactoryBean.setFilterChainDefinitionMap(filterChainMap);
@@ -59,20 +64,11 @@ public class ShiroConfig {
      * ）
      * @return
      */
-    @Bean
-    public HashedCredentialsMatcher hashedCredentialsMatcher(){
-        HashedCredentialsMatcher hashedCredentialsMatcher = new HashedCredentialsMatcher();
-        hashedCredentialsMatcher.setHashAlgorithmName("md5");//散列算法:这里使用MD5算法;
-        hashedCredentialsMatcher.setHashIterations(2);//散列的次数，比如散列两次，相当于 md5(md5(""));
-        return hashedCredentialsMatcher;
-    }
 
     @Bean
     public MyShiroRealm myShiroRealm(){
 
         MyShiroRealm myShiroRealm=new MyShiroRealm();
-
-        myShiroRealm.setCredentialsMatcher(hashedCredentialsMatcher());
 
         return myShiroRealm;
     }

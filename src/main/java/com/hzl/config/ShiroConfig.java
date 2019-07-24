@@ -29,13 +29,13 @@ public class ShiroConfig {
     @Bean
     public ShiroFilterFactoryBean shiroFilter(SecurityManager securityManager){
 
-        LOGGER.info("start");
+        LOGGER.info("认证开始");
 
         ShiroFilterFactoryBean shiroFilterFactoryBean=new ShiroFilterFactoryBean();
 
         shiroFilterFactoryBean.setSecurityManager(securityManager);
 
-        Map<String,String> filterChainMap=new LinkedHashMap<>();
+        Map<String,String> filterChainMap=new LinkedHashMap<String,String>();
         // 配置不会被拦截的链接 顺序判断
         filterChainMap.put("/css/**", "anon");
         filterChainMap.put("/images/**", "anon");
@@ -58,18 +58,27 @@ public class ShiroConfig {
         return shiroFilterFactoryBean;
     }
 
+
     /**
      * 凭证匹配器
      * （由于我们的密码校验交给Shiro的SimpleAuthenticationInfo进行处理了
      * ）
      * @return
      */
+    @Bean
+    public HashedCredentialsMatcher hashedCredentialsMatcher(){
+        HashedCredentialsMatcher hashedCredentialsMatcher = new HashedCredentialsMatcher();
+        hashedCredentialsMatcher.setHashAlgorithmName("md5");//散列算法:这里使用MD5算法;
+        hashedCredentialsMatcher.setHashIterations(2);//散列的次数，比如散列两次，相当于 md5(md5(""));
+        return hashedCredentialsMatcher;
+    }
+
 
     @Bean
     public MyShiroRealm myShiroRealm(){
 
         MyShiroRealm myShiroRealm=new MyShiroRealm();
-
+        myShiroRealm.setCredentialsMatcher(hashedCredentialsMatcher());
         return myShiroRealm;
     }
 

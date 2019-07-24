@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/springboottest?useUnicode=true&characterEncoding=utf8&serverTimeZone=Arisa/Shanghai
     username: root
-    password: hzl=19930515
+    password: root
     type: com.alibaba.druid.pool.DruidDataSource
   devtools:
     restart:

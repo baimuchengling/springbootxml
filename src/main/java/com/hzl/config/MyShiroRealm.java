@@ -2,10 +2,7 @@ package com.hzl.config;
 
 import com.hzl.entity.User;
 import com.hzl.service.UserService;
-import org.apache.shiro.authc.AuthenticationException;
-import org.apache.shiro.authc.AuthenticationInfo;
-import org.apache.shiro.authc.AuthenticationToken;
-import org.apache.shiro.authc.SimpleAuthenticationInfo;
+import org.apache.shiro.authc.*;
 import org.apache.shiro.authz.AuthorizationInfo;
 import org.apache.shiro.authz.SimpleAuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;
@@ -50,12 +47,12 @@ public class MyShiroRealm extends AuthorizingRealm {
         User user=userService.findByUserName(username);
 
         if (user==null){
-            return null;
+            throw new UnknownAccountException("不知道用户名或密码");
         }
-
+        System.out.println("数据库密码："+user.getPassword());
         SimpleAuthenticationInfo simpleAuthenticationInfo=
-                new SimpleAuthenticationInfo(user,user.getPassword(), ByteSource.Util.bytes(user.getPassword()),getName());
-        //参数：用户，密码，加密密码，未知
+                new SimpleAuthenticationInfo(username,user.getPassword(),getName());
+        //参数：用户，数据库密码，real名称
         return simpleAuthenticationInfo;
     }
 }

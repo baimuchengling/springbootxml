@@ -1,0 +1,868 @@
+2019-07-09 20:55:21,859 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 17483 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 20:55:21,866 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 20:55:21,867 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 20:55:23,327 INFO  ShiroConfig:32 -start
+2019-07-09 20:55:23,708 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:55:23,716 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 20:55:23,717 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 20:55:23,724 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 20:55:23,796 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 20:55:24,145 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 20:55:24,319 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:55:24,356 INFO  SpringBootXml:59 -Started SpringBootXml in 2.872 seconds (JVM running for 3.959)
+2019-07-09 20:55:36,790 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 20:56:56,021 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 17849 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 20:56:56,026 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 20:56:56,027 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 20:56:57,142 INFO  ShiroConfig:32 -start
+2019-07-09 20:56:57,414 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:56:57,421 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 20:56:57,422 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 20:56:57,426 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 20:56:57,480 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 20:56:57,744 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 20:56:57,870 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:56:57,903 INFO  SpringBootXml:59 -Started SpringBootXml in 2.204 seconds (JVM running for 2.917)
+2019-07-09 20:58:21,502 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 18147 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 20:58:21,506 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 20:58:21,507 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 20:58:22,325 INFO  ShiroConfig:77 -start3
+2019-07-09 20:58:22,524 INFO  ShiroConfig:32 -start
+2019-07-09 20:58:22,525 INFO  ShiroConfig:37 -start1
+2019-07-09 20:58:22,525 INFO  ShiroConfig:53 -start2
+2019-07-09 20:58:22,806 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:58:22,813 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 20:58:22,813 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 20:58:22,818 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 20:58:22,876 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 20:58:23,168 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 20:58:23,294 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:58:23,326 INFO  SpringBootXml:59 -Started SpringBootXml in 2.09 seconds (JVM running for 2.969)
+2019-07-09 20:59:04,657 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 18299 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 20:59:04,663 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 20:59:04,663 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 20:59:05,553 INFO  ShiroConfig:77 -start3
+2019-07-09 20:59:05,782 INFO  ShiroConfig:32 -start
+2019-07-09 20:59:05,783 INFO  ShiroConfig:37 -start1
+2019-07-09 20:59:05,783 INFO  ShiroConfig:53 -start2
+2019-07-09 20:59:06,038 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:59:06,044 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 20:59:06,044 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 20:59:06,049 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 20:59:06,101 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 20:59:06,358 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 20:59:06,480 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 20:59:06,513 INFO  SpringBootXml:59 -Started SpringBootXml in 2.165 seconds (JVM running for 2.954)
+2019-07-09 21:00:30,470 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 18596 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:00:30,474 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:00:30,474 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:00:31,285 INFO  ShiroConfig:77 -start3
+2019-07-09 21:00:31,515 INFO  ShiroConfig:32 -start
+2019-07-09 21:00:31,530 INFO  ShiroConfig:37 -start1
+2019-07-09 21:00:31,531 INFO  ShiroConfig:53 -start2
+2019-07-09 21:00:31,792 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:00:31,799 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:00:31,799 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:00:31,805 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:00:31,859 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:00:32,118 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:00:32,245 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:00:32,278 INFO  SpringBootXml:59 -Started SpringBootXml in 2.101 seconds (JVM running for 2.968)
+2019-07-09 21:05:29,279 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 19627 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:05:29,283 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:05:29,284 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:05:30,587 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:05:30,594 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:05:30,594 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:05:30,599 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:05:30,652 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:05:30,908 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:05:31,030 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:05:31,063 INFO  SpringBootXml:59 -Started SpringBootXml in 2.089 seconds (JVM running for 3.027)
+2019-07-09 21:05:46,493 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 21:06:02,018 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 21:06:02,259 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 21:06:02,281 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 21:06:02,337 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 21:13:21,817 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 21:13:41,216 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 21402 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:13:41,220 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:13:41,221 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:13:42,061 INFO  ShiroConfig:69 -start3
+2019-07-09 21:13:42,320 INFO  ShiroConfig:32 -start
+2019-07-09 21:13:42,321 INFO  ShiroConfig:37 -start1
+2019-07-09 21:13:42,321 INFO  ShiroConfig:53 -start2
+2019-07-09 21:13:42,583 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:13:42,590 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:13:42,591 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:13:42,596 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:13:42,654 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:13:42,915 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:13:43,045 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:13:43,079 INFO  SpringBootXml:59 -Started SpringBootXml in 2.154 seconds (JVM running for 3.052)
+2019-07-09 21:14:07,693 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 21:36:33,655 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 26103 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:36:33,660 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:36:33,661 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:36:34,589 INFO  ShiroConfig:69 -start3
+2019-07-09 21:36:34,908 INFO  ShiroConfig:32 -start
+2019-07-09 21:36:34,908 INFO  ShiroConfig:37 -start1
+2019-07-09 21:36:34,909 INFO  ShiroConfig:53 -start2
+2019-07-09 21:36:35,220 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:36:35,227 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:36:35,227 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:36:35,235 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:36:35,293 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:36:35,606 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:36:35,775 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:36:35,809 INFO  SpringBootXml:59 -Started SpringBootXml in 2.409 seconds (JVM running for 3.379)
+2019-07-09 21:36:59,200 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 21:41:20,245 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 27094 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:41:20,249 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:41:20,249 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:41:21,057 INFO  ShiroConfig:69 -start3
+2019-07-09 21:41:21,295 INFO  ShiroConfig:32 -start
+2019-07-09 21:41:21,295 INFO  ShiroConfig:37 -start1
+2019-07-09 21:41:21,296 INFO  ShiroConfig:53 -start2
+2019-07-09 21:41:21,554 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:41:21,561 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:41:21,561 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:41:21,566 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:41:21,618 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:41:21,875 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:41:22,000 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:41:22,042 INFO  SpringBootXml:59 -Started SpringBootXml in 2.075 seconds (JVM running for 2.872)
+2019-07-09 21:41:34,545 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 21:41:43,954 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 21:41:44,132 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 21:41:44,154 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 21:41:44,177 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 21:42:34,483 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 21:43:24,956 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 27530 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:43:24,961 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:43:24,962 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:43:25,790 INFO  ShiroConfig:69 -start3
+2019-07-09 21:43:26,039 INFO  ShiroConfig:32 -start
+2019-07-09 21:43:26,040 INFO  ShiroConfig:37 -start1
+2019-07-09 21:43:26,040 INFO  ShiroConfig:53 -start2
+2019-07-09 21:43:26,291 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:43:26,298 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:43:26,299 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:43:26,304 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:43:26,358 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:43:26,404 WARN  [/]:173 -Cannot deserialize session attribute [org.apache.shiro.subject.support.DefaultSubjectContext_PRINCIPALS_SESSION_KEY] for session [84A4A3A5C0622BD7F8B290D54C2E92CD]
+2019-07-09 21:43:26,623 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:43:26,742 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:43:26,778 INFO  SpringBootXml:59 -Started SpringBootXml in 2.129 seconds (JVM running for 3.129)
+2019-07-09 21:43:36,063 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 21:43:48,846 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 21:43:48,991 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 21:43:49,027 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 21:43:49,048 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 21:54:34,659 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 21:54:37,481 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 29837 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:54:37,485 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:54:37,485 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:54:38,287 INFO  ShiroConfig:69 -start3
+2019-07-09 21:54:38,536 INFO  ShiroConfig:32 -start
+2019-07-09 21:54:38,537 INFO  ShiroConfig:37 -start1
+2019-07-09 21:54:38,538 INFO  ShiroConfig:53 -start2
+2019-07-09 21:54:38,804 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:54:38,810 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:54:38,811 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:54:38,816 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:54:38,877 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:54:38,927 WARN  [/]:173 -Cannot deserialize session attribute [org.apache.shiro.subject.support.DefaultSubjectContext_PRINCIPALS_SESSION_KEY] for session [A72E35BA3C1E20E033665918AD90AAA0]
+2019-07-09 21:54:38,929 ERROR StandardManager:175 -Exception loading sessions from persistent storage
+java.io.StreamCorruptedException: invalid type code: 00
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1601) ~[?:1.8.0_191]
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:2287) ~[?:1.8.0_191]
+	at java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:561) ~[?:1.8.0_191]
+	at java.lang.Throwable.readObject(Throwable.java:914) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1170) ~[?:1.8.0_191]
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2178) ~[?:1.8.0_191]
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2069) ~[?:1.8.0_191]
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1573) ~[?:1.8.0_191]
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:431) ~[?:1.8.0_191]
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1554) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:1048) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:218) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:162) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:354) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5153) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134) [?:1.8.0_191]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:831) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1377) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1367) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:134) [?:1.8.0_191]
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:902) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:423) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:928) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:455) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:106) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:86) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:415) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:174) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:181) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:154) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) [spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.hzl.SpringBootXml.main(SpringBootXml.java:20) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+2019-07-09 21:54:39,191 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:54:39,316 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:54:39,350 INFO  SpringBootXml:59 -Started SpringBootXml in 2.15 seconds (JVM running for 2.99)
+2019-07-09 21:56:28,278 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 30226 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:56:28,282 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:56:28,282 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:56:29,125 INFO  ShiroConfig:69 -start3
+2019-07-09 21:56:29,366 INFO  ShiroConfig:32 -start
+2019-07-09 21:56:29,366 INFO  ShiroConfig:37 -start1
+2019-07-09 21:56:29,367 INFO  ShiroConfig:53 -start2
+2019-07-09 21:56:29,622 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:56:29,628 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:56:29,629 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:56:29,634 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:56:29,688 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:56:29,950 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:56:30,073 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:56:30,107 INFO  SpringBootXml:59 -Started SpringBootXml in 2.138 seconds (JVM running for 2.806)
+2019-07-09 21:56:59,805 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 21:57:19,453 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 30410 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 21:57:19,457 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 21:57:19,458 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 21:57:20,315 INFO  ShiroConfig:69 -start3
+2019-07-09 21:57:20,545 INFO  ShiroConfig:32 -start
+2019-07-09 21:57:20,546 INFO  ShiroConfig:37 -start1
+2019-07-09 21:57:20,546 INFO  ShiroConfig:53 -start2
+2019-07-09 21:57:20,803 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:57:20,809 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 21:57:20,810 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 21:57:20,814 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 21:57:20,867 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 21:57:21,126 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 21:57:21,248 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 21:57:21,283 INFO  SpringBootXml:59 -Started SpringBootXml in 2.131 seconds (JVM running for 2.799)
+2019-07-09 21:57:40,896 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:01:48,481 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 31344 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 22:01:48,485 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 22:01:48,485 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 22:01:49,282 INFO  ShiroConfig:72 -start3
+2019-07-09 22:01:49,514 INFO  ShiroConfig:32 -start
+2019-07-09 22:01:49,515 INFO  ShiroConfig:37 -start1
+2019-07-09 22:01:49,515 INFO  ShiroConfig:56 -start2
+2019-07-09 22:01:49,767 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:01:49,773 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 22:01:49,773 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 22:01:49,778 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 22:01:49,832 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 22:01:50,093 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 22:01:50,219 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:01:50,251 INFO  SpringBootXml:59 -Started SpringBootXml in 2.057 seconds (JVM running for 2.916)
+2019-07-09 22:02:07,030 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:02:16,864 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 22:02:16,983 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 22:02:17,014 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 22:02:17,035 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 22:08:59,370 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 22:09:02,115 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 32829 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 22:09:02,119 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 22:09:02,119 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 22:09:02,925 INFO  ShiroConfig:72 -start3
+2019-07-09 22:09:03,171 INFO  ShiroConfig:32 -start
+2019-07-09 22:09:03,172 INFO  ShiroConfig:37 -start1
+2019-07-09 22:09:03,172 INFO  ShiroConfig:56 -start2
+2019-07-09 22:09:03,437 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:09:03,444 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 22:09:03,444 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 22:09:03,449 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 22:09:03,511 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 22:09:03,560 WARN  [/]:173 -Cannot deserialize session attribute [org.apache.shiro.subject.support.DefaultSubjectContext_PRINCIPALS_SESSION_KEY] for session [6FB02CB48C82EC274BDAEA63A89BF0BA]
+2019-07-09 22:09:03,798 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 22:09:03,921 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:09:03,955 INFO  SpringBootXml:59 -Started SpringBootXml in 2.128 seconds (JVM running for 3.036)
+2019-07-09 22:09:14,972 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:09:36,963 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 22:09:37,076 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 22:09:37,094 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 22:09:37,123 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 22:17:05,342 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 22:17:08,081 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 34501 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 22:17:08,085 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 22:17:08,086 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 22:17:08,901 INFO  ShiroConfig:72 -start3
+2019-07-09 22:17:09,144 INFO  ShiroConfig:32 -start
+2019-07-09 22:17:09,145 INFO  ShiroConfig:37 -start1
+2019-07-09 22:17:09,145 INFO  ShiroConfig:56 -start2
+2019-07-09 22:17:09,406 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:17:09,413 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 22:17:09,414 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 22:17:09,419 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 22:17:09,477 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 22:17:09,744 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 22:17:09,877 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:17:09,911 INFO  SpringBootXml:59 -Started SpringBootXml in 2.117 seconds (JVM running for 3.037)
+2019-07-09 22:18:55,466 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:19:06,672 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 22:19:06,819 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 22:19:06,849 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 22:19:06,870 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 22:32:35,793 INFO  UserController:36 -User{userId='P6119880', userName='null', userSex=null, birthDate=null, nativePlace='null', telephone=null, email='null'}
+2019-07-09 22:38:39,709 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 22:38:42,617 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 38952 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 22:38:42,653 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 22:38:42,654 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 22:38:43,534 INFO  ShiroConfig:73 -start3
+2019-07-09 22:38:43,770 INFO  ShiroConfig:32 -start
+2019-07-09 22:38:43,771 INFO  ShiroConfig:37 -start1
+2019-07-09 22:38:43,771 INFO  ShiroConfig:57 -start2
+2019-07-09 22:38:44,024 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:38:44,030 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 22:38:44,031 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 22:38:44,036 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 22:38:44,090 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 22:38:44,353 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 22:38:44,483 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:38:44,517 INFO  SpringBootXml:59 -Started SpringBootXml in 2.197 seconds (JVM running for 3.053)
+2019-07-09 22:39:14,067 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:39:21,112 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 22:39:21,229 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 22:39:21,247 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 22:39:21,274 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 22:44:43,450 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 22:45:03,591 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 40264 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 22:45:03,595 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 22:45:03,595 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 22:45:04,683 INFO  ShiroConfig:32 -start
+2019-07-09 22:45:04,942 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:45:04,949 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 22:45:04,949 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 22:45:04,954 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 22:45:05,006 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 22:45:05,275 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 22:45:05,401 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:45:05,436 INFO  SpringBootXml:59 -Started SpringBootXml in 2.111 seconds (JVM running for 3.045)
+2019-07-09 22:45:33,699 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:45:43,814 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 22:45:43,929 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 22:45:43,947 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 22:45:43,986 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 22:47:34,813 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 22:47:37,597 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 40794 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 22:47:37,601 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 22:47:37,602 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 22:47:38,685 INFO  ShiroConfig:32 -start
+2019-07-09 22:47:38,977 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:47:38,984 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 22:47:38,985 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 22:47:38,989 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 22:47:39,044 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 22:47:39,329 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 22:47:39,457 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 22:47:39,491 INFO  SpringBootXml:59 -Started SpringBootXml in 2.179 seconds (JVM running for 3.083)
+2019-07-09 22:47:51,961 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 22:48:04,941 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 22:48:05,060 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 22:48:05,077 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 22:48:05,107 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 23:01:57,322 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 23:02:00,381 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 43756 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 23:02:00,385 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 23:02:00,385 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 23:02:01,416 INFO  ShiroConfig:32 -start
+2019-07-09 23:02:01,690 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 23:02:01,696 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 23:02:01,697 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 23:02:01,702 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 23:02:01,769 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 23:02:02,032 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 23:02:02,159 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 23:02:02,194 INFO  SpringBootXml:59 -Started SpringBootXml in 2.085 seconds (JVM running for 3.028)
+2019-07-09 23:02:21,461 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 23:02:29,251 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 23:02:29,398 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 23:02:29,431 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 23:02:29,451 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-09 23:04:21,506 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-09 23:04:24,330 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 44264 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-09 23:04:24,334 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-09 23:04:24,335 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-09 23:04:25,389 INFO  ShiroConfig:32 -start
+2019-07-09 23:04:25,651 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-09 23:04:25,658 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-09 23:04:25,658 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-09 23:04:25,664 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-09 23:04:25,716 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-09 23:04:25,982 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-09 23:04:26,105 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-09 23:04:26,137 INFO  SpringBootXml:59 -Started SpringBootXml in 2.099 seconds (JVM running for 2.97)
+2019-07-09 23:04:56,126 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-09 23:05:04,422 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-09 23:05:04,554 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-09 23:05:04,582 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-09 23:05:04,601 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 00:10:54,236 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-10 20:08:07,314 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 73530 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 20:08:07,323 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 20:08:07,324 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 20:08:08,820 INFO  ShiroConfig:32 -start
+2019-07-10 20:08:09,201 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:08:09,211 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 20:08:09,211 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 20:08:09,219 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 20:08:09,296 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 20:08:09,660 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-10 20:08:09,835 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:08:09,880 INFO  SpringBootXml:59 -Started SpringBootXml in 2.924 seconds (JVM running for 4.117)
+2019-07-10 20:08:49,870 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-10 20:09:01,404 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-10 20:09:01,622 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:09:01,644 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:09:01,672 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 20:09:57,185 INFO  UserController:43 -test
+2019-07-10 20:09:57,188 ERROR TemplateEngine:1136 -[THYMELEAF][http-nio-8080-exec-10] Exception processing template "testooo": Error resolving template [testooo], template might not exist or might not be accessible by any of the configured Template Resolvers
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [testooo], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) [thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) [thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) [thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) [thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1370) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1116) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) [spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) [shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) [shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2019-07-10 20:09:57,200 ERROR [dispatcherServlet]:175 -Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [testooo], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [testooo], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1370) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1116) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:449) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387) ~[shiro-core-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125) ~[shiro-web-1.4.0.jar:1.4.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.16.jar:9.0.16]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2019-07-10 20:11:28,955 INFO  UserController:36 -User{userId='S7306815', userName='null', userSex=null, birthDate=null, nativePlace='null', telephone=null, email='null'}
+2019-07-10 20:12:42,251 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:12:42,252 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:12:42,255 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 20:12:42,264 INFO  UserController:36 -User{userId='R8773602', userName='null', userSex=null, birthDate=null, nativePlace='null', telephone=null, email='null'}
+2019-07-10 20:16:19,389 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-10 20:18:10,890 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 75675 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 20:18:10,894 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 20:18:10,895 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 20:18:12,063 INFO  ShiroConfig:32 -start
+2019-07-10 20:18:12,353 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:18:12,360 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 20:18:12,361 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 20:18:12,367 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 20:18:12,425 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 20:18:12,758 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-10 20:18:12,902 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:18:12,940 INFO  SpringBootXml:59 -Started SpringBootXml in 2.389 seconds (JVM running for 3.355)
+2019-07-10 20:18:49,947 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-10 20:19:06,178 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-10 20:19:06,318 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:19:06,350 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:19:06,373 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 20:19:49,247 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:19:49,248 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:19:49,251 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 20:25:36,165 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:25:36,167 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:25:36,171 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 20:26:57,745 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:26:57,746 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:26:57,748 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 20:29:11,350 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-10 20:29:13,527 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 77984 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 20:29:13,531 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 20:29:13,532 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 20:29:14,707 INFO  ShiroConfig:32 -start
+2019-07-10 20:29:15,005 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:29:15,013 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 20:29:15,013 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 20:29:15,019 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 20:29:15,074 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 20:29:15,357 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-10 20:29:15,492 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:29:15,526 INFO  SpringBootXml:59 -Started SpringBootXml in 2.306 seconds (JVM running for 3.215)
+2019-07-10 20:29:49,986 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-10 20:44:39,371 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 81191 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 20:44:39,376 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 20:44:39,376 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 20:44:40,576 INFO  ShiroConfig:32 -认证开始
+2019-07-10 20:44:40,875 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:44:40,882 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 20:44:40,883 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 20:44:40,888 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 20:44:40,945 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 20:44:41,252 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-10 20:44:41,399 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-10 20:44:41,436 INFO  SpringBootXml:59 -Started SpringBootXml in 2.432 seconds (JVM running for 3.197)
+2019-07-10 20:44:44,152 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-10 20:45:07,460 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-10 20:45:07,628 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 20:45:07,648 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 20:45:07,667 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 22:06:25,159 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-10 22:06:28,281 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 97798 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 22:06:28,286 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 22:06:28,287 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 22:06:29,435 INFO  ShiroConfig:32 -认证开始
+2019-07-10 22:06:29,737 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 22:06:29,744 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 22:06:29,744 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 22:06:29,749 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 22:06:29,806 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 22:06:30,041 WARN  AnnotationConfigServletWebServerApplicationContext:557 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'homeController' method 
+public java.lang.String com.hzl.controller.HomeController.login(java.lang.String,java.lang.String,org.springframework.ui.Model) throws java.lang.Exception
+to { /login}: There is already 'homeController' bean method
+public java.lang.String com.hzl.controller.HomeController.login() mapped.
+2019-07-10 22:06:30,043 INFO  StandardService:173 -Stopping service [Tomcat]
+2019-07-10 22:06:30,062 ERROR SpringApplication:858 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'homeController' method 
+public java.lang.String com.hzl.controller.HomeController.login(java.lang.String,java.lang.String,org.springframework.ui.Model) throws java.lang.Exception
+to { /login}: There is already 'homeController' bean method
+public java.lang.String com.hzl.controller.HomeController.login() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1762) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:849) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877) ~[spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) ~[spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+	at com.hzl.SpringBootXml.main(SpringBootXml.java:20) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.1.3.RELEASE.jar:2.1.3.RELEASE]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'homeController' method 
+public java.lang.String com.hzl.controller.HomeController.login(java.lang.String,java.lang.String,org.springframework.ui.Model) throws java.lang.Exception
+to { /login}: There is already 'homeController' bean method
+public java.lang.String com.hzl.controller.HomeController.login() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:618) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:586) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:312) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:282) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684) ~[?:1.8.0_191]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:252) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:211) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:199) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:164) ~[spring-webmvc-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1821) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1758) ~[spring-beans-5.1.5.RELEASE.jar:5.1.5.RELEASE]
+	... 21 more
+2019-07-10 22:09:20,605 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 98388 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 22:09:20,609 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 22:09:20,610 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 22:09:21,786 INFO  ShiroConfig:32 -认证开始
+2019-07-10 22:09:22,079 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 22:09:22,086 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 22:09:22,087 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 22:09:22,091 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 22:09:22,150 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 22:09:22,443 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-10 22:09:22,583 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-10 22:09:22,620 INFO  SpringBootXml:59 -Started SpringBootXml in 2.344 seconds (JVM running for 3.308)
+2019-07-10 22:09:47,858 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-10 22:10:03,703 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-10 22:10:03,862 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 22:10:03,881 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 22:10:03,902 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 22:10:03,922 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 22:10:03,923 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 22:10:03,925 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 22:10:03,926 INFO  HomeController:42 -IncorrectCredentialsException -- > 密码不正确：
+2019-07-10 22:15:33,681 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-10 22:15:36,064 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 99703 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-10 22:15:36,068 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-10 22:15:36,069 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-10 22:15:37,142 INFO  ShiroConfig:32 -认证开始
+2019-07-10 22:15:37,428 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-10 22:15:37,435 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-10 22:15:37,436 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-10 22:15:37,442 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-10 22:15:37,506 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-10 22:15:37,768 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-10 22:15:37,898 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-10 22:15:37,931 INFO  SpringBootXml:59 -Started SpringBootXml in 2.149 seconds (JVM running for 2.969)
+2019-07-10 22:16:56,762 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-10 22:17:19,967 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-10 22:17:20,083 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 22:17:20,106 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 22:17:20,140 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 22:17:20,163 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-10 22:17:20,164 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-10 22:17:20,166 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-10 22:17:20,167 INFO  HomeController:42 -IncorrectCredentialsException -- > 密码不正确：
+2019-07-10 22:17:57,582 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-15 20:47:47,210 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 12169 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-15 20:47:47,218 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-15 20:47:47,219 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-15 20:47:48,684 INFO  ShiroConfig:32 -认证开始
+2019-07-15 20:47:49,066 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-15 20:47:49,074 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-15 20:47:49,075 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-15 20:47:49,082 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-15 20:47:49,158 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-15 20:47:49,522 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-15 20:47:49,718 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-15 20:47:49,760 INFO  SpringBootXml:59 -Started SpringBootXml in 2.914 seconds (JVM running for 4.145)
+2019-07-15 20:47:59,164 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-15 20:48:14,848 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-15 20:48:15,103 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 20:48:15,125 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 20:48:15,183 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 20:48:15,222 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 20:48:15,223 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 20:48:15,226 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 20:48:15,227 INFO  HomeController:42 -IncorrectCredentialsException -- > 密码不正确：
+2019-07-15 20:56:32,787 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-15 20:56:40,306 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 14016 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-15 20:56:40,310 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-15 20:56:40,310 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-15 20:56:41,401 INFO  ShiroConfig:32 -认证开始
+2019-07-15 20:56:41,686 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-15 20:56:41,692 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-15 20:56:41,693 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-15 20:56:41,698 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-15 20:56:41,752 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-15 20:56:42,028 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-15 20:56:42,154 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-15 20:56:42,200 INFO  SpringBootXml:59 -Started SpringBootXml in 2.203 seconds (JVM running for 3.147)
+2019-07-15 20:57:56,506 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-15 20:58:08,816 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-15 20:58:08,931 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 20:58:08,954 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 20:58:08,983 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 20:58:09,000 INFO  HomeController:31 -3130803054/123456
+2019-07-15 20:58:09,001 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 20:58:09,002 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 20:58:09,003 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 20:58:09,005 INFO  HomeController:43 -IncorrectCredentialsException -- > 密码不正确：
+2019-07-15 21:07:23,066 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-15 21:07:25,896 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 16236 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-15 21:07:25,900 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-15 21:07:25,901 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-15 21:07:26,949 INFO  ShiroConfig:32 -认证开始
+2019-07-15 21:07:27,231 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:07:27,238 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-15 21:07:27,239 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-15 21:07:27,243 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-15 21:07:27,296 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-15 21:07:27,556 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-15 21:07:27,676 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:07:27,711 INFO  SpringBootXml:59 -Started SpringBootXml in 2.087 seconds (JVM running for 3.013)
+2019-07-15 21:08:05,297 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-15 21:08:13,813 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-15 21:08:13,966 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 21:08:13,997 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 21:08:14,018 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 21:08:14,027 WARN  DefaultHandlerExceptionResolver:197 -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-07-15 21:15:56,816 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-15 21:16:04,105 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 18037 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-15 21:16:04,109 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-15 21:16:04,110 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-15 21:16:05,238 INFO  ShiroConfig:32 -认证开始
+2019-07-15 21:16:05,542 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:16:05,550 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-15 21:16:05,550 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-15 21:16:05,556 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-15 21:16:05,623 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-15 21:16:05,901 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-15 21:16:06,023 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:16:06,058 INFO  SpringBootXml:59 -Started SpringBootXml in 2.227 seconds (JVM running for 3.127)
+2019-07-15 21:16:24,385 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-15 21:16:34,887 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-15 21:16:35,023 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 21:16:35,053 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 21:16:35,072 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 21:27:38,487 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-15 21:27:41,153 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 20462 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-15 21:27:41,158 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-15 21:27:41,158 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-15 21:27:42,248 INFO  ShiroConfig:32 -认证开始
+2019-07-15 21:27:42,524 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:27:42,531 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-15 21:27:42,531 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-15 21:27:42,536 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-15 21:27:42,592 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-15 21:27:42,859 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-15 21:27:42,979 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:27:43,012 INFO  SpringBootXml:59 -Started SpringBootXml in 2.152 seconds (JVM running for 2.844)
+2019-07-15 21:28:20,360 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-15 21:28:28,276 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-15 21:28:28,424 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-15 21:28:28,455 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-15 21:28:28,478 DEBUG findByUserName:159 -<==      Total: 1
+2019-07-15 23:42:42,975 INFO  DruidDataSource:1658 -{dataSource-1} closed
+2019-07-24 22:09:20,687 INFO  SpringBootXml:50 -Starting SpringBootXml on baimuchenglindeMacBook-Pro.local with PID 58285 (/Users/zhilin/IdeaProjects/springbootxml/target/classes started by zhilin in /Users/zhilin/IdeaProjects/springbootxml)
+2019-07-24 22:09:20,694 DEBUG SpringBootXml:53 -Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-07-24 22:09:20,695 INFO  SpringBootXml:675 -No active profile set, falling back to default profiles: default
+2019-07-24 22:09:22,095 INFO  ShiroConfig:32 -认证开始
+2019-07-24 22:09:22,458 INFO  Http11NioProtocol:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-24 22:09:22,468 INFO  StandardService:173 -Starting service [Tomcat]
+2019-07-24 22:09:22,469 INFO  StandardEngine:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-07-24 22:09:22,477 INFO  AprLifecycleListener:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/zhilin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-07-24 22:09:22,553 INFO  [/]:173 -Initializing Spring embedded WebApplicationContext
+2019-07-24 22:09:22,911 WARN  TemplateMode:150 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-07-24 22:09:23,104 INFO  Http11NioProtocol:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-07-24 22:09:23,147 INFO  SpringBootXml:59 -Started SpringBootXml in 2.842 seconds (JVM running for 3.957)
+2019-07-24 22:09:54,012 INFO  [/]:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-24 22:10:07,327 INFO  DruidDataSource:889 -{dataSource-1} inited
+2019-07-24 22:10:07,574 DEBUG findByUserName:159 -==>  Preparing: select userId,userName,userSex,birthDate,nativePlace,telephone,email,password from userInfo where userId=? 
+2019-07-24 22:10:07,595 DEBUG findByUserName:159 -==> Parameters: 3130803054(String)
+2019-07-24 22:10:07,646 DEBUG findByUserName:159 -<==      Total: 1
